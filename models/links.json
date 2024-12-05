@@ -1,0 +1,9 @@
+{
+  "models": [
+    {
+      "name": "random_forest.joblib",
+      "description": "Random Forest Model",
+      "link": "https://drive.google.com/file/d/19sS4UIGcVxE7mxSX2BvqquqGd236OKL7/view?usp=sharing"
+    }
+  ]
+}
